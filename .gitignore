@@ -1,5 +1,7 @@
 backend/node_modules
 backend/tmp/uploads/*
+backend/src/config/database.js
+backend/.env
 
 
 !backend/tmp/uploads/.gitkeep
