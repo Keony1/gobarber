@@ -2,5 +2,7 @@ backend/node_modules
 backend/tmp/uploads/*
 backend/.env
 
+frontend/node_modules
+frontend/README.md
 
 !backend/tmp/uploads/.gitkeep
