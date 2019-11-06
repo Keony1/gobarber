@@ -40,7 +40,7 @@ export default function Profile() {
         <Input
           name="confirmPassword"
           type="password"
-          placeholder="Comfirmação de senha"
+          placeholder="Confirmação de senha"
         />
 
         <button type="submit">Atualizar perfil</button>
