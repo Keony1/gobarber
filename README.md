@@ -2,7 +2,7 @@
 
 :barber: Sample barber application built with Redux, Redux-Saga, Node and PostgreSQL
 
-![Screenshot 1](screenshot.png)
+![Screenshot](screenshot.png)
 
 ## :rocket: Technologies
 
