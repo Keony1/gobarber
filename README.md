@@ -1,4 +1,4 @@
-# RocketShoes
+# GoBarber
 
 :barber: Sample barber application built with Redux, Redux-Saga, Node and PostgreSQL
 
